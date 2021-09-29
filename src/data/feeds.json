@@ -1,0 +1,28 @@
+{
+    "feeds": [
+        {
+            "id": 1234,
+            "desc": "Hello World",
+            "postedBy": "Nitesh Nahata",
+            "postedDate": "May 14, 2021 1:33 PM",
+            "isLiked": false,
+            "likes": 5
+        },
+        {
+            "id": 1235,
+            "desc": "Welcome to Social Media",
+            "postedBy": "Ritesh Mukim",
+            "postedDate": "Jan 20, 2021 5:06 PM",
+            "isLiked": true,
+            "likes": 14
+        },
+        {
+            "id": 1236,
+            "desc": "Namaste JavaScript",
+            "postedBy": "Ankit Singhania",
+            "postedDate": "Dec 9, 2020 9:41 AM",
+            "isLiked": false,
+            "likes": 23
+        }
+    ]
+}
